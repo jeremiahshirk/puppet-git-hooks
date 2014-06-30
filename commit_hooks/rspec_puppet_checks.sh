@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 git_root=`git rev-parse --show-toplevel`
 syntax_errors=0

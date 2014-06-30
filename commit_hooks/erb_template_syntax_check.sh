@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # This script expects $1 to be passed and for $1 to be the filesystem location
 # to an ERB file for which it will run syntax checks against. If $2 is passed,
